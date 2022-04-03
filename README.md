@@ -1,6 +1,6 @@
 - Hi, I’m @MonEmperor. call me Mon
 - I’m interested in programming simulations, bots, backend development, databases and some games
-- I usually Python and C++ but aspire to learn languages such as Java, C and GO
+- I usually program in Python and C++, but aspire to learn languages such as Java, C and GO
 - I’m currently a first year Software Engineering student.
 - You can reach me via my discord: Loona!#4291
 
