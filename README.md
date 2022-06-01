@@ -1,10 +1,61 @@
 - Hi, I’m @MonEmperor. call me Mon.
-- I’m interested in programming(or learning how to program) simulations, bots, backend development, databases, AI and some games.
-- I usually program in Python and C++, but aspire to learn languages such as Java, C and GO.
+- I’m interested in programming simulations, bots, backend development, databases, AI and some games.
 - Spoken language/s: English(native).
-- I’m currently a first year Software Engineering student.
-- You can reach me via my discord: Loona!#4291 or email at abr.da.king2016@gmail.com.
+- I’m currently a 2nd year Software Engineering student at Ontario Tech University(formally UOIT)
+- You can reach me via my email at abr.da.king2016@gmail.com.
 
+
+### Languages and Tools that I have worked with:
+<p align="left">
+</p>
+<p align="left">
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://imgs.search.brave.com/8UPTT7a8BOS6r5O7X3sCLgW4R3Gg7B4yUZ5O9hnR2FU/rs:fit:284:284:1/g:ce/aHR0cHM6Ly93d3cu/bWVtZW50b3RlY2gu/aW4vYXNzZXRzL2lt/YWdlcy9pY29ucy9l/eHByZXNzLnBuZw" alt="express" width="40" height="40"/>
+</a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+    <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/>
+</a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+  </a>
+    <a href="https://www.codecademy.com/learn/learn-c-plus-plus" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+</a>
+</a>
+    <a href="https://www.pygame.org/news" target="_blank" rel="noreferrer">
+    <img src="https://imgs.search.brave.com/TKcWZguse58nMoLFSqCnL4Zb_eloSy0C83fXoxOTqDw/rs:fit:400:118:1/g:ce/aHR0cHM6Ly9maWxl/cy5yZWFscHl0aG9u/LmNvbS9tZWRpYS9w/eWdhbWUtbG9nby5l/NzhlNTdkYjMwMDAu/cG5n" alt="pygame" width="100" height="40"/>
+</a>
+<a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
+    <img src="https://imgs.search.brave.com/bgTBQnSa3bwfU06CR1N27RI0zBxSrGGY000M56PvAQc/rs:fit:480:480:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2EwL1NG/TUxfTG9nby5zdmcv/NDgwcHgtU0ZNTF9M/b2dvLnN2Zy5wbmc" alt="sfml" width="40" height="40"/>
+</a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="rpi" width="40" height="40"/>
+</a>
+
+  
+  
 <!---
 MonEmperor/MonEmperor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
