@@ -1,4 +1,4 @@
-- I’m interested in programming simulations, bots, backend development, databases, AI and some games.
+- I’m interested in programming simulations, bots, backend, databases, AI and some games.
 - Spoken language/s: English(native).
 - I’m currently a 2nd year Software Engineering student at Ontario Tech University(formally UOIT)
 - You can reach me via my email at abr.da.king2016@gmail.com.
