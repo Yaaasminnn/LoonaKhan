@@ -1,4 +1,4 @@
-#### Call me Mon ![flag](){:width="20px" height="20px"}
+#### Call me Mon ![flag](https://cdn.discordapp.com/attachments/522557908249214986/982384357991932014/Queer_Icons_Bisexual_Flag-20.png?size=4096)
 - I am passionate about programming simulations, bots, backend, databases, AI and some games.
 - Spoken language/s: English(native).
 - I’m currently a 2nd year Software Engineering student at Ontario Tech University(formally UOIT)
