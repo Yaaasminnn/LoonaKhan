@@ -63,6 +63,10 @@
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="heroku" width="30" height="30"/>
 </a>
+</a>
+    <a href="https://pycord.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.discordapp.com/attachments/522557908249214986/983591113636057129/pycord.webp?size=4096" alt="pycord" width="30" height="30"/>
+</a>
 
 
 <a href="https://www.pygame.org" target="_blank" rel="noreferrer">
