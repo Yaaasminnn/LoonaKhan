@@ -14,7 +14,7 @@
 </a>
   </a>
     <a href="https://www.codecademy.com/learn/learn-c-plus-plus" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
+    <img src="cpp.svg" alt="cpp" width="30" height="30"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
