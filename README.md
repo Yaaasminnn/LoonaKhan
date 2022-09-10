@@ -2,7 +2,7 @@
 - I am passionate about programming simulations, bots, backend, databases, AI and some games.
 - Spoken language/s: English(native).
 - I’m currently a 2nd year Software Engineering student at Ontario Tech University(formally UOIT)
-- pronouns: (he/they)
+- pronouns: (she/her)
 
 #### Languages:
 <p align="left">
