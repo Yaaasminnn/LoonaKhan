@@ -1,4 +1,4 @@
-#### Call me Loona ![flag](https://cdn.discordapp.com/attachments/522557908249214986/982384357991932014/Queer_Icons_Bisexual_Flag-20.png?size=4096)
+#### Call me Loona 🏳‍⚧️
 - I am passionate about programming simulations, bots, backend, databases, AI and some games.
 - Spoken language/s: English(native).
 - I’m currently a 2nd year Software Engineering student at Ontario Tech University(formally UOIT)
@@ -76,7 +76,8 @@
 
 </p>
 
-<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MonEmperor&show_icons=true&theme=github_dark&langs_count=5&layout=compact&hide=css,html,cmake,c,Makefile,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MonEmperor&show_icons=true&theme=github_dark&langs_count=5&layout=compact&hide=css,html,cmake,c,Makefile,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 --->
   
 <!---
