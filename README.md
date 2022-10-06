@@ -73,10 +73,6 @@
 
 
 </p>
-
-<!---->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MonEmperor&show_icons=true&theme=github_dark&langs_count=6&layout=compact&hide=cmake)](https://github.com/anuraghazra/github-readme-stats)
-<!----->
   
 <!---
 MonEmperor/MonEmperor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
