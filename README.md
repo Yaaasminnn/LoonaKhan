@@ -25,6 +25,12 @@
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
 </a>
+    <a href="https://go.dev/" target-"_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="30" height="30"/>
+    </a>
+    <a href="https://www.lua.org/" target-"_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="30" height="30"/>
+    </a>
 </p>
   
   
