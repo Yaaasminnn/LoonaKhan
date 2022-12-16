@@ -1,6 +1,6 @@
 #### Call me Mon
 - I am passionate about programming simulations, bots, backend servers, databases, and some games.
-- Spoken language/s: English(native).
+- Spoken language/s: English(native), German(beginner).
 
 #### Languages:
 <p align="left">
