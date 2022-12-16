@@ -1,5 +1,5 @@
 #### Call me Mon
-- I am passionate about programming simulations, bots, backend, databases, AI and some games.
+- I am passionate about programming simulations, bots, backend servers, databases, and some games.
 - Spoken language/s: English(native).
 
 #### Languages:
