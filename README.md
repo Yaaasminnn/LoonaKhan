@@ -15,12 +15,8 @@
     <img src="cpp.svg" alt="cpp" width="30" height="30"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-    
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-</a>
     
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
@@ -30,6 +26,9 @@
     </a>
     <a href="https://www.lua.org/" target-"_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="30" height="30"/>
+    </a>
+    <a href="https://dart.dev/" target-"_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30"/>
     </a>
 </p>
   
@@ -68,14 +67,12 @@
     <a href="https://pycord.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.discordapp.com/attachments/522557908249214986/983591113636057129/pycord.webp?size=4096" alt="pycord" width="30" height="30"/>
 </a>
-
-
-<a href="https://www.pygame.org" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/TKcWZguse58nMoLFSqCnL4Zb_eloSy0C83fXoxOTqDw/rs:fit:400:118:1/g:ce/aHR0cHM6Ly9maWxl/cy5yZWFscHl0aG9u/LmNvbS9tZWRpYS9w/eWdhbWUtbG9nby5l/NzhlNTdkYjMwMDAu/cG5n" alt="pygame" width="90" height="30"/>
-</a>
 <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
     <img src="https://imgs.search.brave.com/bgTBQnSa3bwfU06CR1N27RI0zBxSrGGY000M56PvAQc/rs:fit:480:480:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2EwL1NG/TUxfTG9nby5zdmcv/NDgwcHgtU0ZNTF9M/b2dvLnN2Zy5wbmc" alt="sfml" width="30" height="30"/>
 </a>
+<a href="https://flutter.dev/" target-"_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
+    </a>
 
 
 </p>
