@@ -1,4 +1,4 @@
-#### Call me Loona
+#### Call me Yasmin
 - I am passionate about programming simulations, bots, backend servers, databases, and some games.
 - Spoken language/s: English(native), German(beginner).
 
